@@ -5,6 +5,10 @@ Program for calculating, accruing and paying taxes
 Podatok(platnyk, percent, descr, osnova, section)
 Platnyk(name, dohid, vlasnist, podatky, suma, typ)
 
+main.py:
+- Main module of the repository
+- main() function for the runing the programme
+
 classes.py:
 - Podatok ADT
 - Platnyk Clas
