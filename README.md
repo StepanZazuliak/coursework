@@ -16,10 +16,10 @@ classes.py:
 podatok.json:
 - info about taxes
 
-dz3_example.py:
+example1.py:
 - helper for creating Podatok objects
 
-dz4_ezample.py:
+ezample2.py:
 - example of creating and using of the program
 
 Author: Stepan Zazuliak
