@@ -1,7 +1,7 @@
 import json
 
 inp = input("Введіть назву податку: ")
-path = "d:/UCU/coursework/podatky.json"
+path = "../podatky.json"
 
 with open(path, 'r', encoding='utf-8') as f:
     decoded_kved = json.load(f)
